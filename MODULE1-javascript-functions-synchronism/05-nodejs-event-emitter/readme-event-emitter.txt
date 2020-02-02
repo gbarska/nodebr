@@ -1,0 +1,4 @@
+-used for continuos operations/tasks
+-Nodejs uses for almost everything in the ecosystem
+-very utilized by the browsers
+-works accordinly to the design patter Observer/Pubsub

@@ -1,0 +1,2 @@
+-makes the code cleaner and easier to read
+-it doesn't change the code's performance
