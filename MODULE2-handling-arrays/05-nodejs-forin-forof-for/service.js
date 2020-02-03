@@ -7,6 +7,12 @@ async function getPeople(name){
     return response.data;
 }
 
+module.exports = {
+    getPeople
+}
+
+//testing 
+
 // getPeople('r2')
 //     .then(function (result){
 //         console.log('result',result);
